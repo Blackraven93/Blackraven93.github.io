@@ -1,7 +1,7 @@
 title:            BlackRaven
-description:      Your site description...
-copyright:        Your Name
-url: # add your custom site url (format: https://example.com)
+description:      Welcome to raven world!
+copyright:        Raven
+url: # add your custom site url (format: https://blackraven.com)
 
 
 future:      false  # publish future dated posts --  true, false (default)
